@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    margin: 10px;
+}
+
+.container header{
+    margin: 100px;
+}
